@@ -1,6 +1,6 @@
 # T20 World Cup 2022 Analysis Project
 ## Dataset Used
-The [dataset](t20-world-cup-22.csv) contains data about all the matches from the Super 12 stage to the final of the ICC Men’s T20 World Cup 2022. Below are all the features in the dataset:
+The [dataset](EDA_T20_WorldCup_Summary_Analysis/t20-world-cup-22.csv) contains data about all the matches from the Super 12 stage to the final of the ICC Men’s T20 World Cup 2022. Below are all the features in the dataset:
 
 - **venue**: The venue where the match was played
 - **team1**: The team that batted first
