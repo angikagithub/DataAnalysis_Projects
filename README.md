@@ -28,7 +28,7 @@ pip install pandas
 pip install plotly
 ```
 ## Python Code
-[Source Code](EDA_T20_WorldCup_Summary_Analysis)
+[Source Code]
 
 ## Tableau Dashboard
 Along with python analysis, I've built the [dashboard](https://public.tableau.com/app/profile/angika.roy/viz/T20WorldCup2022Summary/Dashboard1) using Tableau Public in my profile. Below is how the dashboards looks like:
