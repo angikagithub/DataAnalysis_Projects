@@ -9,3 +9,5 @@ so he has the Regional Managers for North India, South India and Central India. 
 
 ### Solution
 Sales director decides to invest in data analysis project and he would like to build power BI dashboard that can give him real time sales insights.
+## PowerBI Dashboard
+![image](https://github.com/angikagithub/DataAnalysis_Projects/assets/127938795/f59a0b04-ffdf-44cd-bf2e-4cfa3cf12ccb)
