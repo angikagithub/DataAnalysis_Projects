@@ -13,4 +13,5 @@ Sales director decides to invest in data analysis project and he would like to b
 ## Dataset
 [SQL dataset](Sales_Insight/db_dump.sql)
 ## PowerBI Dashboard
-![image](https://github.com/angikagithub/DataAnalysis_Projects/assets/127938795/f59a0b04-ffdf-44cd-bf2e-4cfa3cf12ccb)
+![image](https://github.com/angikagithub/DataAnalysis_Projects/assets/127938795/8201b8d2-55ee-4ebe-8f3e-5ff6ba229f0f)
+
