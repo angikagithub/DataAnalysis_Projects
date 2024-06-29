@@ -1,6 +1,6 @@
 # AQI of India 2015 to 2020 
 ## Dataset
-The [dataset](AQI of India 2015 to 2020 in PowerBI/city_day.csv) contains Air Quality Data of the following cities:
+The [dataset](AQI_of_India_2015_to_2020_in_PowerBI/city_day.csv) contains Air Quality Data of the following cities:
 
 Ahmedabad, Aizawl, Amaravati, Amritsar, Bengaluru, Bhopal, Brajrajnagar, Chandigarh, Chennai, Coimbatore, Delhi, Ernakulam, Gurugram, Guwahati, Hyderabad, Jaipur, Jorapokhar, Kochi, Kolkata, Lucknow, Mumbai, Patna, Shillong, Talcher, Thiruvananthapuram, Visakhapatnam
 
