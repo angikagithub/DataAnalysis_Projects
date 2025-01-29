@@ -6,11 +6,12 @@ Climate change is one of the most pressing issues of our time, and the way it's 
 ***[Dataset](Climate_News_Headline_Analysis/climate_headlines_sentiment.csv)***
 
 ## Analysis Performed
-**1. Sentiment Distribution**
-**2. Identifying Sentiment Patterns**
-**3. Headline Analysis**
-**4. Sentiment Trends by Themes based on Headline keywords**
-**5. Measured Mean Square Error for the Sentiment Prediction**
+
+1. Sentiment Distribution
+2. Identifying Sentiment Patterns
+3. Headline Analysis
+4. Sentiment Trends by Themes based on Headline keywords
+5. Measured Mean Square Error for the Sentiment Prediction
 
 ## Install Packages
 To install the necessary packages, run the following commands:
