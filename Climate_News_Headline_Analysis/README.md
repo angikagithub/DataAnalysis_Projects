@@ -1,11 +1,6 @@
-# Stock Market Analysis Project
+# Climate News Headline - Sentiment Analysis
 ## Overview
-A collection of data points indexed in time order is called a time series. Since time series data are ubiquitous, any data scientist or analyst must be able to manipulate them.
-
-Here I examined stock market statistics, especially related to a few technological stocks **(Apple, Amazon, Google, and Microsoft)**.
-
-Here the dataset is live and have retrieved stock information from **yfinance** and utilize **Seaborn** and **Matplotlib** to display various parts of it. 
-Used many methods for assessing a stock's risk based on its historical performance. Also used the **Long Short Term Memory (LSTM)** approach to forecast future stock values!
+Climate change is one of the most pressing issues of our time, and the way it's portrayed in the media can significantly influence public perception and policy. In this notebook, we'll dive into a dataset of climate change news headlines to uncover insights about the sentiment surrounding this critical topic.
 
 ***Here the analysis answers the following questions:***
 
