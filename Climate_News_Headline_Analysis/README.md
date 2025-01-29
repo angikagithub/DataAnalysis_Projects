@@ -2,20 +2,43 @@
 ## Overview
 Climate change is one of the most pressing issues of our time, and the way it's portrayed in the media can significantly influence public perception and policy. In this notebook, we'll dive into a dataset of climate change news headlines to uncover insights about the sentiment surrounding this critical topic.
 
-***Here the analysis answers the following questions:***
+## Dataset Used
+***[Dataset](Climate_News_Headline_Analysis/climate_headlines_sentiment.csv)***
 
-1. What was the change in price of the stock over time?
-2. What was the daily return of the stock on average?
-3. What was the moving average of the various stocks?
-4. What was the correlation between different stocks'?
-5. How much value do we put at risk by investing in a particular stock?
-6. How can we attempt to predict future stock behavior? (Predicting the closing price stock price of APPLE inc using LSTM)
+## Analysis Performed
+**1. Sentiment Distribution**
+**2. Identifying Sentiment Patterns**
+**3. Headline Analysis**
+**4. Sentiment Trends by Themes based on Headline keywords**
+**5. Measured Mean Square Error for the Sentiment Prediction**
 
 ## Install Packages
 To install the necessary packages, run the following commands:
 
 ```sh
-pip install yfinance
-pip install mpl_finance
-pip install tensorflow
+pip install wordcloud
+```
+## Libraries
+The Libraries used in this analysis:
+
+```sh
+import pandas as pd
+import matplotlib.pyplot as plt
+%matplotlib inline
+```
+```sh
+import warnings
+import seaborn as sns
+from wordcloud import WordCloud
+```
+## Machine Learning Libraries
+```sh
+from sklearn.model_selection import train_test_split
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.linear_model import LinearRegression
+from sklearn.neighbors import KNeighborsRegressor
+from sklearn.tree import DecisionTreeRegressor
+from sklearn.ensemble import VotingRegressor
+from sklearn.metrics import classification_report, accuracy_score, confusion_matrix
+from sklearn.metrics import mean_squared_error
 ```
